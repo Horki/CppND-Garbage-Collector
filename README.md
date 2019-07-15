@@ -10,7 +10,7 @@ Memory Management course
 Compile and run
 
 ```bash
-make && ./hhtop
+make && ./gc
 ```
 
 Garbage Collector example
