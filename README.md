@@ -6,3 +6,13 @@ Memory Management course
 - Complete `Pointer` `operator==` [done]
 - Complete `Pointer` destructor   [done]
 - Complete `PtrDetails` class     [done]
+
+Compile and run
+
+```bash
+make && ./hhtop
+```
+
+Garbage Collector example
+
+![Garbage Collector](img/GarbageCollector.png)
