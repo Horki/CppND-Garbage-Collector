@@ -4,10 +4,10 @@ Memory Management course
 
 ## Project TODO List
 
-- Complete `Pointer` constructor  [done]
-- Complete `Pointer` `operator==` [done]
-- Complete `Pointer` destructor   [done]
-- Complete `PtrDetails` class     [done]
+- [x] Complete `Pointer` constructor
+- [x] Complete `Pointer` `operator==`
+- [x] Complete `Pointer` destructor
+- [x] Complete `PtrDetails` class
 
 ## To setup and compile
 
@@ -26,4 +26,4 @@ git clone https://github.com/Horki/CppND-Garbage-Collector
 
 Garbage Collector example
 
-![Garbage Collector](img/GarbageCollector.png)
+![Garbage Collector](img/GarbageCollector.webp)
